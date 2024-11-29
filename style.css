@@ -1,14 +1,21 @@
 body{
-font-family: "indie Flowers",cursive;
-background-color: rgb(216, 27, 84);
-color:deeppink
-margin;op
+     font-family: "indie Flowers",cursive;
+     background-color: rgb(216, 27, 84);
+     color:purple 
+     margin:0px;
+     margin-bottom: 100px;
 }
 .chamada{
-
-
+    background-color:bisque;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
 header{
-
+    font-size: 40px;
+    color: pink;
+    border-bottom: 3px plum;
+    padding: 20px;
 
 } 
